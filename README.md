@@ -27,3 +27,4 @@ print('Number of columns : ',len(x.axes[1]))<br>
 ![image](https://github.com/sanjaysivaramakrishnan/Read-from-CSV/assets/151629616/a001fa0e-380b-40e0-acd6-765acef9b2f8)
 
 ## RESULT:
+Program to read a csv file is created
